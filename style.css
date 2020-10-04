@@ -1,5 +1,5 @@
 .headcol{
-    background-color:#3CB371;
+    background-color:#143D59;
 }
 
 .jkl{
@@ -21,7 +21,7 @@
 
 @media screen and (max-width:800px){
     .jkl img{
-        margin-top: 3rem;
+        margin-top: 6rem;
         margin-bottom: 1rem;
     }
 
